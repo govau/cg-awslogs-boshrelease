@@ -1,0 +1,16 @@
+autoconf-2.69.tar.gz:
+  size: 1927468
+  object_id: 1103bcf9-a4bf-4888-735e-1f46e2856926
+  sha: 562471cbcb0dd0fa42a76665acf0dbb68479b78a
+automake-1.16.tar.gz:
+  size: 2299471
+  object_id: 38ff911e-fcbc-4e5d-6a5f-2a2b4f522b8c
+  sha: 4318efd71daeab4270b5953b130b56c09e575fa8
+inotify-tools-3.14.tar.gz:
+  size: 66905
+  object_id: 2783c8bc-5097-43ec-765f-2f93480a3cb1
+  sha: 0f17a329253a55525175b613cf454a4661f7e732
+libtool-2.4.6.tar.gz:
+  size: 1806697
+  object_id: 56fc6fa5-eeac-4a34-5378-90203e94f383
+  sha: 25b6931265230a06f0fc2146df64c04e5ae6ec33
