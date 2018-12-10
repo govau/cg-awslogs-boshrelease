@@ -1,5 +1,7 @@
 set -eux
 
+apt-get update
+
 # replicate what the AWS installer does to get virtualenv available
 apt-get install -y python-virtualenv
 
