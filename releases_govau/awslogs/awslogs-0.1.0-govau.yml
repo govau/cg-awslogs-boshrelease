@@ -1,0 +1,24 @@
+name: awslogs
+version: 0.1.0-govau
+commit_hash: 68f5ea2
+uncommitted_changes: true
+jobs:
+- name: awslogs
+  version: ff8ac755b27643a3302deeb2b24c1e3d7bc5f87f
+  fingerprint: ff8ac755b27643a3302deeb2b24c1e3d7bc5f87f
+  sha1: 25f52706230cc2cc6bff3b9b7ac2f7b0afd061d3
+packages:
+- name: awslogs
+  version: d99b886620dd43aaf5744d5ac477d020d5369d32
+  fingerprint: d99b886620dd43aaf5744d5ac477d020d5369d32
+  sha1: 852d78d3e9f3244c26f6c6f188185e6778b30d20
+  dependencies: []
+- name: inotify-tools
+  version: 7835b5c5d5c8c258759145c1db29f49aa48913b0
+  fingerprint: 7835b5c5d5c8c258759145c1db29f49aa48913b0
+  sha1: fedd793199773d9e97c4a373c7bfc6e4b362f1ad
+  dependencies: []
+license:
+  version: fbb241bbe211a00eb6267be38deecb48f071554a
+  fingerprint: fbb241bbe211a00eb6267be38deecb48f071554a
+  sha1: 434e1ef0819080ca62ce2baaebb0a06eb21d4774
