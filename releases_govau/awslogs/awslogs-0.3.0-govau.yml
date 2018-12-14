@@ -1,0 +1,35 @@
+name: awslogs
+version: 0.3.0-govau
+commit_hash: fa8f522
+uncommitted_changes: true
+jobs:
+- name: awslogs
+  version: 45a0014f10a231dd1aedb38ad9b3d3aeb169af40
+  fingerprint: 45a0014f10a231dd1aedb38ad9b3d3aeb169af40
+  sha1: 53b975dcf7ddbb012b5f40970aad4478c0b3161b
+packages:
+- name: awscli
+  version: 5b7247c9662e2b149cfe8a50a3601c1f3a7a5b1c
+  fingerprint: 5b7247c9662e2b149cfe8a50a3601c1f3a7a5b1c
+  sha1: 6a000aa26bcd8a1b9bcbbe1cfecd02971d64baf9
+  dependencies:
+  - python-2.7
+- name: awslogs
+  version: 9b665f300ad43556415e65e079ebca4153091d5f
+  fingerprint: 9b665f300ad43556415e65e079ebca4153091d5f
+  sha1: 95f2fa676ee6ffa0886c14897ebae597cae7f828
+  dependencies: []
+- name: inotify-tools
+  version: 7835b5c5d5c8c258759145c1db29f49aa48913b0
+  fingerprint: 7835b5c5d5c8c258759145c1db29f49aa48913b0
+  sha1: fedd793199773d9e97c4a373c7bfc6e4b362f1ad
+  dependencies: []
+- name: python-2.7
+  version: 7063c9f4e43bf49374c2f6cc6c2f74a5467f2298
+  fingerprint: 7063c9f4e43bf49374c2f6cc6c2f74a5467f2298
+  sha1: bd130315766a7641dbd20aa328d16f084cc17965
+  dependencies: []
+license:
+  version: fbb241bbe211a00eb6267be38deecb48f071554a
+  fingerprint: fbb241bbe211a00eb6267be38deecb48f071554a
+  sha1: 434e1ef0819080ca62ce2baaebb0a06eb21d4774
