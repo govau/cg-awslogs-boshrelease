@@ -6,6 +6,10 @@ automake-1.16.tar.gz:
   size: 2299471
   object_id: 38ff911e-fcbc-4e5d-6a5f-2a2b4f522b8c
   sha: 4318efd71daeab4270b5953b130b56c09e575fa8
+awscli-bundle.zip:
+  size: 11309541
+  object_id: c8c5e3a3-a41f-4f7a-505e-7af34eb19dfd
+  sha: 85f9ea771f7e6034bb1b2a2d5efc0f691a3bdb17
 inotify-tools-3.14.tar.gz:
   size: 66905
   object_id: 2783c8bc-5097-43ec-765f-2f93480a3cb1

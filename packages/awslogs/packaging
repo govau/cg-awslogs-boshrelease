@@ -1,5 +1,6 @@
 set -eux
 
+chmod 1777 /tmp
 apt-get update
 
 # replicate what the AWS installer does to get virtualenv available
