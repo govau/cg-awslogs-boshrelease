@@ -1,5 +1,5 @@
 ---
-name: awscli
+name: aws-cli
 
 dependencies:
   - python-2.7

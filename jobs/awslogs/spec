@@ -17,7 +17,7 @@ packages:
 - awslogs
 - inotify-tools
 - python-2.7
-- awscli
+- aws-cli
 properties:
   awslogs.access_key:
     description: AWS Access Key
